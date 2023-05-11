@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GorselProgDatabase", "GorselProgDatabase\GorselProgDatabase.csproj", "{0877AF6C-3794-446F-806D-1D3FF4EA04BC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Framework", "Framework", "{3AD36685-D945-4AF3-A40A-13D220DDEF42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GorselProgFramework", "GorselProgFramework\GorselProgFramework.csproj", "{EE45E4EA-514C-442E-A0F7-7316C6FED343}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0877AF6C-3794-446F-806D-1D3FF4EA04BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0877AF6C-3794-446F-806D-1D3FF4EA04BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0877AF6C-3794-446F-806D-1D3FF4EA04BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0877AF6C-3794-446F-806D-1D3FF4EA04BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE45E4EA-514C-442E-A0F7-7316C6FED343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE45E4EA-514C-442E-A0F7-7316C6FED343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE45E4EA-514C-442E-A0F7-7316C6FED343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE45E4EA-514C-442E-A0F7-7316C6FED343}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EE45E4EA-514C-442E-A0F7-7316C6FED343} = {3AD36685-D945-4AF3-A40A-13D220DDEF42}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AED4EC1-28F9-4769-861D-4EC8D7CE52BC}
+	EndGlobalSection
+EndGlobal
