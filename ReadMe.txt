@@ -5,5 +5,3 @@ Silme: Başka bir kullanıcı başkasının mesajını silemez ancak kendi mesaj
 Ekleme: Kullanıcının kaydedilmesi. Mesaj, gönderici adı, gönderenin saati ve kanal adı alınarak veri tabanına kaydedilir. 
 Veri Çekme: Basılan butonun üzerindeki kanal adına göre mesajlar çekilir.
 Güncelleme: Kullanıcı kendi mesajını düzenleyebilir, ötekilerine dokunamaz.
-Umarım beğenirsiniz Seyit Hocam.
--Ali Küçükkaya
